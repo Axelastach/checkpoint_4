@@ -1,0 +1,12 @@
+/* Importing the individual SCSS files */
+@import url('./settings.css');
+@import url('./pages/home.css');
+@import url('./components/navbar.css');
+@import url('./components/card.css');
+@import url('./components/connectionForm.css');
+@import url('./pages/profil.css');
+@import url('./components/newPostForm.css');
+@import url('./components/friendsHint.css');
+@import url('./components/trends.css');
+@import url('./components/leftNav.css');
+@import url('./pages/trending.css');
